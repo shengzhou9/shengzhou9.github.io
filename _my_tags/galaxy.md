@@ -1,0 +1,4 @@
+---
+slug: galaxy
+name: galaxy
+---
