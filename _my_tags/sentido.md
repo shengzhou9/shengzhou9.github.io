@@ -1,0 +1,4 @@
+---
+slug: sentido
+name: sentido
+---
