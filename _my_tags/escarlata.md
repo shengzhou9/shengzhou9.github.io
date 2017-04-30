@@ -1,0 +1,4 @@
+---
+slug: escarlata
+name: escarlata
+---
