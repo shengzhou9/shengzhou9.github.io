@@ -1,0 +1,4 @@
+---
+slug: lugo
+name: lugo
+---
