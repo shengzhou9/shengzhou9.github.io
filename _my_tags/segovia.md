@@ -1,0 +1,4 @@
+---
+slug: segovia
+name: segovia
+---
