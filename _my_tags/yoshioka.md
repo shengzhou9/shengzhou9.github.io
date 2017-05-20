@@ -1,0 +1,4 @@
+---
+slug: yoshioka
+name: yoshioka
+---

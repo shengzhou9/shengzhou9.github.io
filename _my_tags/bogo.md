@@ -1,0 +1,4 @@
+---
+slug: bogo
+name: bogo
+---
