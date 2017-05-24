@@ -1,0 +1,4 @@
+---
+slug: lanvin
+name: lanvin
+---
