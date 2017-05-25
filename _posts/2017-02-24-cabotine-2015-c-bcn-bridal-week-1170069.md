@@ -3,7 +3,7 @@ layout: post
 date: '2017-02-24'
 title: "Cabotine 2015 ¨C BCN Bridal Week 1170069"
 category: Cabotine
-tags: ["bridal","cabotine","week","granddressy"]
+tags: ["bridal","granddressy","cabotine","week"]
 image: http://img.granddressy.com/20777-thickbox_default/cabotine-2015-c-bcn-bridal-week-1170069.jpg
 ---
 Cabotine 2015 ¨C BCN Bridal Week 1170069
