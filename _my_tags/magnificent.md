@@ -1,0 +1,4 @@
+---
+slug: magnificent
+name: magnificent
+---
