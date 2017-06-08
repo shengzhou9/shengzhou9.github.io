@@ -1,0 +1,4 @@
+---
+slug: edie
+name: edie
+---
