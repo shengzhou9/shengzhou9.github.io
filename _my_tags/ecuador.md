@@ -1,0 +1,4 @@
+---
+slug: ecuador
+name: ecuador
+---
