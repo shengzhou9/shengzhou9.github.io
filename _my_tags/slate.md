@@ -1,0 +1,4 @@
+---
+slug: slate
+name: slate
+---
