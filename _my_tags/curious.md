@@ -1,0 +1,4 @@
+---
+slug: curious
+name: curious
+---
