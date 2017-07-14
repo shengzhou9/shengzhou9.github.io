@@ -1,0 +1,4 @@
+---
+slug: esquire
+name: esquire
+---
